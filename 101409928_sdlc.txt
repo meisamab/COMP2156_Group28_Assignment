@@ -1,1 +1,1 @@
-sdlc file 
+Faster Delivery: DevOps streamlines communication and collaboration, automating manual tasks, leading to quicker code releases and deployments.

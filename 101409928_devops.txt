@@ -1,1 +1,1 @@
-about decops
+George Brown College offers a DevOps course within its Computer Programming and Analysis program.
