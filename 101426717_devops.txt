@@ -1,4 +1,4 @@
-A course on DevOps might cover various topics including:
+DevOps course include following areas give below:
 
 Introduction to DevOps principles.
 Continuous Integration (CI) and Continuous Deployment (CD) pipelines.
