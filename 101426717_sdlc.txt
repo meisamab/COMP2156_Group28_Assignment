@@ -1,0 +1,6 @@
+The Software Development Life Cycle (SDLC) is a structured process used by software development teams to design, develop, test, and deploy software applications. 
+it includes:
+Planning 
+Analysis
+design
+Implementation
