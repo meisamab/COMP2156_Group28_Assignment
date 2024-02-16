@@ -1,28 +1,34 @@
 # COMP2156 Group 28 Assignment
 
-# Team Members
-Meisam Aboutorabian
-Ayodele Johnson Asa
-Sarthak Shrestha
-Shahariar Alam
+## Team Members
+- Meisam Aboutorabian    https://github.com/meisamab
+- Ayodele Johnson        https://github.com/Johnsonasa
+- Asa Sarthak Shrestha   https://github.com/sarthakcodesnow
+- Shahariar Alam         https://github.com/ShahariarAlam101
 
 ## Description
+This repository facilitates the collaborative efforts of Group 28 for the COMP2156 course, emphasizing the practical application of DevOps principles and tools.
 
-This repository hosts the collaborative efforts of Group 28 for the COMP2156 – DevOps for System Administration course, focusing on applying DevOps principles and tools.
+## Structure
+Each member works within their branch, contributing to three text files:
+- `Studentid_gb.txt`
+- `Studentid_devops.txt`
+- `Studentid_sdlc.txt`
+
+After significant individual contributions, branches will be merged into the main, with conflicts resolved collaboratively.
 
 ## Installation
-
-Clone this repo to participate: git clone https://github.com/meisamab/COMP2156_Group28_Assignment.git
+To clone this repo:
+`git clone https://github.com/meisamab/COMP2156_Group28_Assignment.git`
 
 ## Usage
-
-Demonstrates GitHub Actions CI/CD integration and collaboration through branch management.
+This project integrates GitHub Actions for CI/CD and demonstrates collaborative development through branch management.
 
 ## Contributing
+Contributions are managed as per structured guidelines, with commits documenting the evolution of each file.
 
-Open for contributions from Group 28 members, following the structured guidelines of commits and file management.
+## Progress Updates
+This README will be updated to reflect the group's progress throughout the assignment.
 
 ## License
-
-For educational use within COMP2156 coursework.
-
+This project is for educational purposes within the COMP2156 coursework.
