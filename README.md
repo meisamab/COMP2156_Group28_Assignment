@@ -1,6 +1,6 @@
 Sarthak Shrestha - COMP2156 DevOps Assignment
 Overview
-This branch showcases my individual contributions as the Group Leader for Group 28's assignment in the COMP2156 – DevOps for System Administration course.
+This branch showcases my individual contributions for Group 28's assignment in the COMP2156 – DevOps for System Administration course.
 
 Files
 100746330_gb.txt: Insights into George Brown College.
