@@ -7,4 +7,4 @@ design
 Implementation
 Testing
 Deployment
-Maintenance
+Maintenance.
