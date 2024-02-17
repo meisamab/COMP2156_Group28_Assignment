@@ -1,2 +1,10 @@
 George Brown College offers a DevOps course within its Computer Programming and Analysis program.
 Students enrolled in the Computer Programming and Analysis program have the opportunity to delve into various tools, methodologies, and technologies used in DevOps environments.
+The course curriculum covers topics such as continuous integration, continuous deployment, containerization, infrastructure as code, and automation.
+Through hands-on projects and real-world simulations, students gain practical experience in setting up DevOps pipelines and managing infrastructure.
+Instructors with industry experience guide students through best practices and emerging trends in the field of DevOps.
+The course emphasizes collaboration and communication between development and operations teams to streamline software delivery processes.
+Students learn to utilize popular DevOps tools such as Docker, Kubernetes, Jenkins, Ansible, and Git in a variety of scenarios.
+Practical exercises and case studies allow students to troubleshoot issues, optimize workflows, and implement solutions within DevOps environments.
+The DevOps course also addresses security considerations and compliance requirements in modern software development and deployment practices.
+Graduates of the program emerge with the skills and knowledge needed to thrive in DevOps roles across diverse industries, contributing to the efficiency and success of software development projects.
