@@ -20,3 +20,5 @@ Key Topics Covered:
 - Security: Integrating security practices into the DevOps workflow to ensure safe and reliable software.
 
 The course aims to equip students with the skills needed to work in modern, fast-paced software development environments, emphasizing the importance of collaboration, automation, and continuous improvement.
+
+The COMP 2156 DevOps course also emphasizes the cultural aspects of DevOps, highlighting the importance of fostering a collaborative and innovative work environment to drive organizational success.
