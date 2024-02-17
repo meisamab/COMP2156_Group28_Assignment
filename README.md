@@ -13,9 +13,9 @@ We welcome contributions! Please follow these guidelines:
 
 ##Files
 
-100746330_gb.txt: Insights into George Brown College.
-100746330_devops.txt: Overview of the COMP2156 DevOps course.
-100746330_sdlc.txt: Importance of DevOps in the software development life cycle.
+* 100746330_gb.txt: Insights into George Brown College.
+* 100746330_devops.txt: Overview of the COMP2156 DevOps course.
+* 100746330_sdlc.txt: Importance of DevOps in the software development life cycle.
 
 ## Contact
 
