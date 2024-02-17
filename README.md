@@ -2,8 +2,8 @@
 
 ## Team Members
 - Meisam Aboutorabian    https://github.com/meisamab
-- Ayodele Johnson        https://github.com/Johnsonasa
-- Asa Sarthak Shrestha   https://github.com/sarthakcodesnow
+- Ayodele Johnson Asa    https://github.com/Johnsonasa
+- Sarthak Shrestha       https://github.com/sarthakcodesnow
 - Shahariar Alam         https://github.com/ShahariarAlam101
 
 ## Description
