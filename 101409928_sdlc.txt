@@ -1,1 +1,2 @@
 Faster Delivery: DevOps streamlines communication and collaboration, automating manual tasks, leading to quicker code releases and deployments.
+By automating repetitive tasks such as testing, deployment, and configuration management, DevOps accelerates the software delivery lifecycle.
