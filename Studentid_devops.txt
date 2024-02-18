@@ -1,0 +1,54 @@
+# COMP 2156 - DevOps for System Administration
+
+## Course Description
+This course teaches procedures, protocols, and best practices for DevOps engineers to increase workplace productivity. Students analyze and implement various DevOps tools like Ansible and Git, along with data formats such as XML, JSON, YAML, and YANG.
+
+## Course Outcomes
+1. System or Network engineering with DevOps processes.
+2. Using DevOps tools, Cloud database technologies, and techniques.
+3. Enhancing the software development lifecycle through automation.
+4. Version Control System workflows and continuous code integration.
+5. Architectural decisions between monolithic or microservice architecture.
+6. Monitoring code quality and CI/CD pipelines.
+7. Utilizing Infrastructure as Code and cloud computing for deployment.
+8. Integrating security practices into the software development cycle.
+
+## Textbooks and Resources
+- Required: COMP2156 - DevOps For System Administration
+- Recommended: "DevOps: A Software Architect’s Perspective", "Docker Up Running Shipping Reliable Containers in Production"
+
+## Course Delivery Mode
+Lectures, demonstrations, hands-on exercises, and take-home assignments. Online or in-person delivery.
+
+## Assignment Policy
+Submit assignments on time. Late submissions penalized. No marks for optional assignments submitted late.
+
+## Test Policy
+Inform professor in advance for alternative arrangements. No make-up quizzes or lab exercises.
+
+## Evaluation System
+- Mid-term exam: 20%
+- Final exam: 30%
+- Individual assignment: 12%
+- Group assignment: 14%
+- Lab exercises: 16%
+- Lecture quiz: 8%
+
+## Topical Outline (Subject to Change)
+Weeks 1-7 and 10-14:
+1. Intro to DevOps and BASH
+2. Version Control with Git and GitHub
+3. Application Architecture and Text Editors
+4. DevOps Landscape and CI/CD
+5. Automating Software Builds
+6. Continuous Integration/Deployment
+7. Data Storage and Cloud Databases
+8. Intersession Week
+9. Mid-term Exam
+10. Working with Cloud Infrastructure
+11. Automating DevOps and Quality Assurance
+12. DevOps Assembly Lines
+13. Commonly Used DevOps Tech Exposed
+14. Transitioning into the role of DevOps
+
+## Final Exam
