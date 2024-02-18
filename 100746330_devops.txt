@@ -1,0 +1,24 @@
+About COMP 2156 DevOps Course
+
+The COMP 2156 DevOps course at George Brown College introduces students to the principles and practices of DevOps, an approach that combines software development (Dev) and IT operations (Ops) to shorten
+the system development life cycle and provide continuous delivery with high software quality.
+
+Key Topics Covered:
+
+- Automation: Techniques and tools to automate repetitive tasks and streamline processes.
+
+- Toolchain Pipelines: Understanding and implementing pipelines for continuous integration, continuous delivery, and continuous deployment.
+
+- Collaboration and Communication: Strategies to enhance teamwork and communication between development and operations teams.
+
+- Version Control: Utilizing systems like Git to manage code changes and collaborate on software projects.
+
+- Containerization: Using technologies like Docker to package and deploy applications in a consistent and efficient manner.
+
+- Cloud Computing: Leveraging cloud services for scalable and flexible infrastructure management.
+
+- Security: Integrating security practices into the DevOps workflow to ensure safe and reliable software.
+
+The course aims to equip students with the skills needed to work in modern, fast-paced software development environments, emphasizing the importance of collaboration, automation, and continuous improvement.
+
+The COMP 2156 DevOps course also emphasizes the cultural aspects of DevOps, highlighting the importance of fostering a collaborative and innovative work environment to drive organizational success.
