@@ -1,0 +1,10 @@
+The Software Development Life Cycle is a structured process used by software development teams to design and deploy software applications,
+it includes:
+
+Planning 
+Analysis
+design
+Implementation
+Testing
+Deployment
+Maintenance.

@@ -1,0 +1,11 @@
+DevOps course include following areas give below:
+
+Introduction to DevOps principles.
+Continuous Integration (CI) and Continuous Deployment (CD) pipelines.
+Configuration management tools like Ansible.
+Containerization technologies such as Docker.
+Infrastructure as Code (IaC) using tools like Terraform.
+Monitoring and logging tools for application performance and infrastructure health.
+Collaboration and communication tools for DevOps teams such as Slack, Jira, or Git.
+Security practices in DevOps workflows.
+Cloud computing platforms and services like AWS,etc.
